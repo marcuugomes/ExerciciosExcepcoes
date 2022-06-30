@@ -1,0 +1,7 @@
+#1-a) Com o bloco de código referido é possível apanhar qualquer tipo de excepcoes pois 'Exception' é o topo da hierarquia;
+
+# - b) Ao utilizar este tipo de estratégia o metodo ira parar em todos os tipos de excepcoes. E nao conseguiremos saber qual excepcao causou a paragem.
+
+
+#2- a) Se é compilado pelo compilador ou não não sei, mas é inutil ter o segundo catch com uma excepcao especifica uma vez que qualquer que seja a excepcao apanhada
+ira parar no primeiro catch, por isso é redundante ter o segundo catch.
