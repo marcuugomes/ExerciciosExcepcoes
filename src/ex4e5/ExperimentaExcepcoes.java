@@ -1,4 +1,4 @@
-package excepcoes.src.ex4;
+package excepcoes.src.ex4e5;
 
 public class ExperimentaExcepcoes {
     public static void main(String[] args) {
